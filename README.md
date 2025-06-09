@@ -17,9 +17,9 @@ Coding has become my way to build, learn, and share — and I’m always aiming 
 
 - **Python** (Pandas, NumPy, scikit-learn, PyTorch, spaCy, Dash)
 - **Data Engineering** (APIs, Parquet, Pickle, S3, ETL pipelines)
-- **Machine Learning** (SOM, Autoencoders, Isolation Forest, Random Forest)
+- **Machine Learning** (SOM, Autoencoders, Isolation Forest, Random Forest, PCA)
 - **NLP** (Regex, NER, BERT-based models, graph search)
-- **Front-End Tools** (Dash, Blender scripting, BabylonJS for 3D projects)
+- **Front-End Tools** (Dash, Streamlit, Plotly)
 
 ## What I'm exploring next
 
